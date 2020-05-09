@@ -1,0 +1,26 @@
+#navBody {
+  background: #d4edda;
+}
+
+#cardPad {
+  margin: 6%;
+}
+
+#tablePad {
+  margin: 6%;
+}
+
+#textStyle {
+  margin-left: 6%;
+}
+
+h2 {
+  margin: 6%;
+}
+
+ul li a {
+  font-size: 20px;
+  margin: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */

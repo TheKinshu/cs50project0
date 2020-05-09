@@ -1,0 +1,28 @@
+$nav-background: #d4edda;
+
+$spacing: 6%; 
+
+#navBody{
+    background: $nav-background;
+}
+
+#cardPad{
+    margin: $spacing;
+}
+
+#tablePad{
+    margin: $spacing;
+}
+
+#textStyle{
+    margin-left: $spacing;
+}
+
+h2{
+    margin: $spacing;
+}
+
+ul li a{
+    font-size: 20px;
+    margin: 20px;
+}
