@@ -10,6 +10,11 @@ $spacing: 6%;
     margin: $spacing;
 }
 
+.container .row .col{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 #tablePad{
     margin: $spacing;
 }

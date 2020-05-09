@@ -6,6 +6,11 @@
   margin: 6%;
 }
 
+.container .row .col {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 #tablePad {
   margin: 6%;
 }
